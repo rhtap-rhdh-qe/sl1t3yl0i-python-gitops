@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sl1t3yl0i-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sl1t3yl0i-python
